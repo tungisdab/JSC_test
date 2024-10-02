@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+      
+        "name": "Shoes Story",
+        "language_app": "English",
+        "color": "Color",
+        "setting": "Setting",
+        "theme": "Theme",
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "home": "Home",
+        "search": "Search",
+        "category": "Category",
+        "add_to_cart": "Add to cart",
+        "favorites": "Favorites",
+        "profile": "Profile",
+        "buy": "Buy",
+        "language": "Language"
+
+}

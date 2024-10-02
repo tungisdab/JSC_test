@@ -1,0 +1,18 @@
+{
+    "@@locale": "vi",
+  
+        "name": "Shoes Story",
+        "language_app": "Tiếng Việt",
+        "color": "Màu sắc",
+        "setting": "Cài đặt",
+        "theme": "Chủ đề",
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "register": "Đăng ký",
+        "home": "Trang chủ",
+        "search": "Tìm kiếm",
+        "category": "Loại",
+        "add_to_cart": "Thêm vào giỏ hàng",
+        "favorites": "Yêu thích",
+        "profile": "Hồ sơ"
+}
